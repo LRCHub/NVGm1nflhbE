@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "大きな愛でもてなして",
+  "base_artist": "℃-ute",
+  "createdAt": "2026-02-19T03:06:33.515977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大きな愛でもてなして/中島早貴・萩原 舞 (2012神聖なるVer.)",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/01_大きな愛でもてなして_中島早貴・萩原_舞_(2012神聖なるVer.)_°C-ute.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大きな愛でもてなして／中島早貴・萩原舞 - 2012神聖なるVer.",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/02_大きな愛でもてなして_中島早貴・萩原舞_-_2012神聖なるVer._°C-ute.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大きな愛でもてなして",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/03_大きな愛でもてなして_°C-ute.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大きな愛でもてなして",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/pl_01_大きな愛でもてなして_°C-ute.txt"
+    }
+  ]
+}
